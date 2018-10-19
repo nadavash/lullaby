@@ -110,7 +110,7 @@ explore the Lullaby codebase.
 
 ## Codebase
 
-All C++ code is available under the src/ folder. It contains the following
+All C++ code is available under the lullaby/ folder. It contains the following
 subfolders:
 
 *   base: The ECS implementation and the base tech libraries.
